@@ -84,7 +84,7 @@ module.exports = [{
 
 执行命令
 ``` bash
-npm start
+npm start 
 ```
 
 ## [更新内容](https://github.com/wes-lin/Cloud189Checkin/wiki/更新内容)
